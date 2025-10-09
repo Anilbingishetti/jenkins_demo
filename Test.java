@@ -1,7 +1,7 @@
 class Test {
     public static void main(String[] args) {
       //sum of natural numbers
-        int n = 15;
+        int n = 20;
         int sum = 0;
         for(int i = 0; i <= n; i++) {
             sum += i;
